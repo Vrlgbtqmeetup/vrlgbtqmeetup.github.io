@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 body {
-    background-image: url("https://vrlgbtqmeetup.github.io/img/background.jpg");
+    background-image: url("{{ 'background.jpg' }}");
 }
 img {
     display: block;
