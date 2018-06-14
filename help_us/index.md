@@ -1,4 +1,4 @@
-<h2 id='yourhelp'>We need your help!</h2>
+<h2 id='help_us'>We need your help!</h2>
 <p>Do you have any photos we could use as a background on one of our slides?</p>
 <p>Keep it simple</p>
 <p>No logos</p>
