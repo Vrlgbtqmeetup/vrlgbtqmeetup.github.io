@@ -3,7 +3,6 @@
 	else if(window.location.hash=="#links"){window.location=window.location.origin+'/links';}
 	else if(window.location.hash=="#help_us"){window.location=window.location.origin+'/help_us';}
 	else{
-		document.getElementById('main_content').innerHTML += "<img src='img/banner.jpg' alt='LGBTQ banner' height='315' width='560' style='width:95%;' /><hr style='height:1px; visibility:hidden;' />"
 		document.getElementById('main_content').innerHTML += "<h2 id='home'>Home</h2><hr style='height:1px; visibility:hidden;' />";
 	}
 </script>
