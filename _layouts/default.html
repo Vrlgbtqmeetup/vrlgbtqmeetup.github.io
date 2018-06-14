@@ -21,48 +21,24 @@
         <h1 style="text-align:center">{{ site.title | default: site.github.repository_name }}</h1>
         <br>
         <h4 style="text-align:center">{{ site.description | default: site.github.project_tagline }}</h4>
-        <img src='img/banner.jpg' alt="LGBTQ banner" height="315" width="560" style="width:95%;"/>
-        <br>
         <hr />
         <table style='margin-left:auto;margin-right:auto;'>
         	<tr>
-        		<th style='text-align:center'><a href='#about'>About Us</a></th>
-        		<th style='text-align:center'><a href='#links'>Links</a></th>
-        		<th style='text-align:center'><a href='#yourhelp'>Help Us</a></th>
+            <th style='text-align:center'><a href='/'>Home</a></th>
+        		<th style='text-align:center'><a href='/about'>About Us</a></th>
+        		<th style='text-align:center'><a href='/links'>Links</a></th>
+        		<th style='text-align:center'><a href='/help_us'>Help Us</a></th>
         	</tr>
         </table>
+        <hr /><br>
       </header>
-      <section>
+      <section id="main_content" style="text-align:center">
 
-        <h3 id="about">About</h3>
-        <p>Join our global LGBTQ+ &amp; Friends weekly meet up that offers support, encouragement, and love from all corners of the world. Join our North American meetup, and if you are sending your love from abroad, join us at our earlier time for the European meetup. We have created this safe haven where you can express yourself in a welcoming environment.</p>
-        <p style='text-align:right;font-size:75%;'><a href='#top'>To Top</a></p>
-        <hr />
-        <h3 id="links">Links</h3>
-        <ul>
-          <li><a href="https://account.altvr.com/channels/lgbtq" target="_blank">AltspaceVR LGBTQ+ Channel</a></li><hr style="height:1px; visibility:hidden;" />
-          <li><a href="https://discord.gg/R8msj5d" target="_blank">LGBTQ+ Discord</a></li><hr style="height:1px; visibility:hidden;" />
-          <li><a href="https://www.facebook.com/groups/195286514536810/about/" target="_blank">Facebook Group</a></li><hr style="height:1px; visibility:hidden;" />
-          <li>E-mail: <a href="mailto:VRLGBTQmeetup@gmail.com" target="_top">VRLGBTQmeetup@gmail.com</a></li><hr style="height:1px; visibility:hidden;" />
-          <li>Twitter: <a href="https://twitter.com/VrLGBTQmeetup" target="_blank">@VrLGBTQmeetup</a></li><hr style="height:1px; visibility:hidden;" />
-          <li><a href="https://discord.gg/SYAmHa2" target="_blank">AltspaceVR Discord</a></li>
-        </ul>
-        <p style='text-align:right;font-size:75%;'><a href='#top'>To Top</a></p>
-        <hr />
-        <h2 id='yourhelp'>We need your help!</h2>
-        <p>Do you have any photos we could use as a background on one of our slides?</p>
-        <ul>
-          <li>Keep it simple</li>
-          <li>No logos</li>
-          <li>Nature/Urban/Landscape prefered</li>
-          <li>Please submit via discord or e-mail and include the location, country, and username</li>
-        </ul>
-        <p style='text-align:right;font-size:75%;'><a href='#top'>To Top</a></p>
+      {{ content }}
 
       </section>
     </div>
     <footer>
-      <p>Hosted on GitHub Pages.</p>
     </footer>
   </body>
 </html>
