@@ -4,4 +4,3 @@
 <p>No logos</p>
 <p>Nature/Urban/Landscape prefered</p>
 <p>Please submit via discord or e-mail and include the location, country, and username</p>
-<p style='text-align:right;font-size:75%;'><a href='#top'>To Top</a></p>
