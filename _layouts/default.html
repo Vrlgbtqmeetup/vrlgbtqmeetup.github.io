@@ -14,10 +14,11 @@
   <body>
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
-        <h1 style="text-align:center">{{ site.title | default: site.github.repository_name }}</h1>
+        <!--<h1 style="text-align:center">{{ site.title | default: site.github.repository_name }}</h1>
         <br>
-        <h4 style="text-align:center">{{ site.description | default: site.github.project_tagline }}</h4>
-        <hr />
+        <h4 style="text-align:center">{{ site.description | default: site.github.project_tagline }}</h4>-->
+        <img src='/img/banner.jpg' alt='LGBTQ banner' height='315' width='560' style='width:95%;'/>
+        <br><hr />
         <table style='margin-left:auto;margin-right:auto;'>
         	<tr>
             <th style='text-align:center'><a href='/'>Home</a></th>
@@ -34,8 +35,8 @@
 
       </section>
     </div>
-    <footer>
-      <img src='/img/banner.jpg' alt='LGBTQ banner' height='315' width='560' style='width:95%; border:3px solid black'/>
-    </footer>
+    <!--<footer>
+      <img src='/img/banner.jpg' alt='LGBTQ banner' height='315' width='560' style='width:95%; border:3px solid black;'/>
+    </footer>-->
   </body>
 </html>
