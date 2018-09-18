@@ -5,4 +5,4 @@
 <p>Twitter: <a href="https://twitter.com/VrLGBTQmeetup" target="_blank">@VrLGBTQmeetup</a></p>
 <p><a href="https://www.facebook.com/groups/195286514536810/about/" target="_blank">Facebook Group</a></p>
 <p><a href="https://discord.gg/SYAmHa2" target="_blank">Altspace Discord</a></p>
-<p><a href="https://discordapp.com/users/295068589860585472" target="_blank">Chris's Discord:&nbsp;&nbsp;🌈Coolph3r🌈#4928 </a></p>
+<p>Chris's Discord:&nbsp;&nbsp;<a href="https://discordapp.com/users/295068589860585472" target="_blank">🌈Coolph3r🌈#4928</a></p>
