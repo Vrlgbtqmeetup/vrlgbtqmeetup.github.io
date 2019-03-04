@@ -1,6 +1,2 @@
 <h2 id='help_us'>We need your help!</h2>
-<p>Do you have any photos we could use as a background on one of our slides?</p>
-<p>Keep it simple</p>
-<p>No logos</p>
-<p>Nature/Urban/Landscape prefered</p>
-<p>Please submit via discord or e-mail and include the location, country, and username</p>
+<p>Help up us make the meetups better for the people who come every week by sending us your ideas on some awesome topics you want us to cover for everyone to enjoy.</p>
