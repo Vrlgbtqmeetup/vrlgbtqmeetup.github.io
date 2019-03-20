@@ -23,8 +23,8 @@ button {
 /* collapsible layout */
 
 .collapsible {
-    background-color: #00be00;
-    color: white;
+    background-color: #c6eafa;
+    color: #000;
     cursor: pointer;
     padding: 18px;
     width: 100%;
@@ -35,12 +35,12 @@ button {
 }
 
 .active, .collapsible:hover {
-    background-color: #006900;
+    background-color: #bbb;
 }
 
 .collapsible:after {
     content: '\002B';
-    color: white;
+    color: #000;
     font-weight: bold;
     float: right;
     margin-left: 5px;
@@ -55,7 +55,7 @@ button {
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.2s ease-out;
-    background-color: #999;
+    background-color: #aaa;
     text-align: left;
     border-radius: 10px;
     margin-bottom: 1.5em;
