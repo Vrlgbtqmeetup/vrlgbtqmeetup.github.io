@@ -35,7 +35,7 @@ button {
 }
 
 .active, .collapsible:hover {
-    background-color: #bbb;
+    background-color: #aaa;
 }
 
 .collapsible:after {
@@ -55,7 +55,7 @@ button {
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.2s ease-out;
-    background-color: #aaa;
+    background-color: #bbb;
     text-align: left;
     border-radius: 10px;
     margin-bottom: 1.5em;
