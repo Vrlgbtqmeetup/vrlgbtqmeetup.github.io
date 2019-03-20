@@ -1,5 +1,5 @@
 <h3 id="links">Links</h3>
-<p><a href="/guidelines"><img src='/assets/img/guidelines.jpg' alt='Discussion Guidelines' height='108' width='179' /></a></p>
+<p><a href="/guidelines"><img src='/assets/img/guidelines.jpg' alt='Discussion Guidelines' height='216' width='358' /></a></p>
 <div class="encase">
 	<button class="collapsible" id="discord" data-parent="discord" data-child="discord-child">Discord</button>
 		<div id="discord-child" class="innertext center" data-parent="discord">
