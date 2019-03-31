@@ -4,6 +4,7 @@
 <div class="encase">
 	<button class="collapsible" id="chris" data-parent="chris" data-child="chris-child">Chris</button>
 		<div id="chris-child" class="innertext center" data-parent="chris">
+			<br>
 			<div data-parent="chris" style="float:left; overflow:auto; width:auto; height:auto; border:0;">
 				<img src="/assets/img/background.jpg" width="50px" height="50px" style="float:left;">
 				<img src="/assets/img/background.jpg" width="50px" height="50px" style="float:right;">
