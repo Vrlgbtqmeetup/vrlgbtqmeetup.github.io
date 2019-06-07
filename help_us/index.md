@@ -1,4 +1,4 @@
 <h2 id='help_us'>We need your help!</h2>
 <p>Help up us make the meetups better for the people who come every week by sending us your ideas on some awesome topics you want us to cover for everyone to enjoy.</p>
-<p>We're working on a float space right now!! You can help us build it by coming to the meetups and giving us your ideas. The role of terraformer can only be given out to a few people at a time, but we want everyone give us ideas to help us build. This is, after all, for all of you!</p>
-<p>Submit your ideas by sending us message on <a href="https://discord.me/vrlgbtq" target="_blank">Discord</a> or an email to <a href="mailto:VRLGBTQmeetup@gmail.com" target="_top">VRLGBTQmeetup@gmail.com</a></p>
+<p>We're working on pride floats! Simply create a world and decorate it. Floats bust be submitted by June 10th to ve viewed at the meetup on the 12th. The floats must be no bigger than 10x6 according to the world grid, have no more than 315 objects across 5 kits, and all the diagnostics must be green on the webpage.</p>
+<p>Submit your ideas by sending us message on <a href="https://discord.me/vrlgbtq" target="_blank">Discord</a>.</p>
