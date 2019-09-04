@@ -6,6 +6,7 @@
 		<div id="discord-child" class="innertext center" data-parent="discord">
 			<p>Chris's Discord:&nbsp;&nbsp;<a href="https://discordapp.com/users/295068589860585472" target="_blank" id="chris" data-parent="discord">Coolph3r#4928</a></p>
 			<p><a href="https://discord.me/vrlgbtq" target="_blank" id="lgbtqdiscord" data-parent="discord">LGBTQ+ Discord</a></p>
+			<p><a href="https://discordapp.com/invite/altspacevr" target="_blank" id="officialaltspacediscord" data-parent="discord">Official Altspace Discord</a></p>
 			<p><a href="https://discord.gg/SYAmHa2" target="_blank" id="altspacediscord" data-parent="discord">Altspace Discord</a></p>
 		</div>
 	<button class="collapsible" id="social" data-parent="social" data-child="social-child">Social</button>
