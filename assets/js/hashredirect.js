@@ -1,0 +1,1 @@
+if(window.location.hash){window.location=window.location.origin+'/'+window.location.hash.substr(1);}
