@@ -11,10 +11,10 @@
 			<p><a href="https://discord.gg/SYAmHa2" target="_blank" id="altspacediscord" data-parent="links">Unofficial Official Altspace Discord</a></p>
 		</div>
 		<div class="encase" id="social" data-parent="links">
+			<p>Twitter: <a href="https://twitter.com/VrLGBTQmeetup" target="_blank" id="twitter" data-parent="social">@VrLGBTQmeetup</a></p>
 			<p>E-mail: <a href="mailto:VRLGBTQmeetup@gmail.com" target="_top" id="email" data-parent="links">VRLGBTQmeetup@gmail.com</a></p>
 			<p><a href="https://account.altvr.com/channels/lgbtq" target="_blank" id="channel" data-parent="links">AltspaceVR LGBTQ+ Channel</a></p>
 			<p><a href="https://www.facebook.com/groups/195286514536810/about/" target="_blank" id="facebook" data-parent="links">Facebook Group</a></p>
-			<a id='twitter' class="twitter-timeline" data-width="315" data-height="500" data-link-color="#981CEB" href="https://twitter.com/VrLGBTQmeetup?ref_src=twsrc%5Etfw">Tweets by @VrLGBTQmeetup</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 		</div>
 	</div>
 <button class="collapsible" id="about" data-parent="about" data-child="about-child">About</button>
