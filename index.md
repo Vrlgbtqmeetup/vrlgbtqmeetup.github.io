@@ -3,12 +3,13 @@
 <div class="encase">
 	<button class="collapsible" id="links" data-parent="links" data-child="links-child">Links</button>
 		<div id="links-child" class="innertext" data-parent="links">
+		<hr style="height:10px; visibility:hidden;">
 			<h3 id="discord" data-parent="links">Discord</h3>
 			<p>Chris's Discord:&nbsp;&nbsp;<a href="https://discordapp.com/users/295068589860585472" target="_blank" id="chris" data-parent="links">Coolph3r#4928</a></p>
 			<p><a href="https://discord.me/vrlgbtq" target="_blank" id="lgbtqdiscord" data-parent="links">LGBTQ+ Discord</a></p>
 			<p><a href="https://discordapp.com/invite/altspacevr" target="_blank" id="officialaltspacediscord" data-parent="links">Official Altspace Discord</a></p>
 			<p><a href="https://discord.gg/SYAmHa2" target="_blank" id="altspacediscord" data-parent="links">Unofficial Official Altspace Discord</a></p>
-			<hr style="height:10px; visibility:hidden;">
+			<hr style="height:5spx; visibility:hidden;">
 			<h3 id="social" data-parent="links">Social</h3>
 			<p>Twitter: <a href="https://twitter.com/VrLGBTQmeetup" target="_blank" id="twitter" data-parent="links">@VrLGBTQmeetup</a></p>
 			<p>E-mail: <a href="mailto:VRLGBTQmeetup@gmail.com" target="_top" id="email" data-parent="links">VRLGBTQmeetup@gmail.com</a></p>
