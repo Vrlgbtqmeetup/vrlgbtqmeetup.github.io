@@ -19,6 +19,7 @@
 	<button class="collapsible" id="about" data-parent="about" data-child="about-child">About</button>
 		<div id="about-child" class="innertext" data-parent="about">
 			<p>Join our global LGBTQ+ &amp; Friends weekly meet up that offers support, encouragement, and love from all corners of the world. Join our North American meetup, and if you are sending your love from abroad, join us at our earlier time for the European meetup. We have created this safe haven where you can express yourself in a welcoming environment.</p>
+			<p>We now have a Saturday hangout! Started by Meta, come hang out with people and friends of the community. Check the event list on Saturday as it's an unfeatured event. We hope to see you there!</p>
 		</div>
 	<button class="collapsible" id="help" data-parent="help" data-child="help-child">Help Us</button>
 		<div id="help-child" class="innertext" data-parent="help">
