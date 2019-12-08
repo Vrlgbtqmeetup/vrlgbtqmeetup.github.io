@@ -20,6 +20,19 @@
     <meta name="msapplication-TileColor" content="#603cba">
     <meta name="msapplication-config" content="/assets/favicon/browserconfig.xml?v=WGoOlvbOox">
     <meta name="theme-color" content="#ffffff">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/Snowstorm/20131208/snowstorm-min.js"></script>
+    <script>
+      snowStorm.excludeMobile = false;
+      snowStorm.snowColor = '#d6ecef'; //give the snowflakes another colour
+      snowStorm.flakesMaxActive = 200; //the maximum number of active snow flakes on the screen, lowering this may increase performance
+      snowStorm.followMouse = true; //the snow will fall in a certain direction based on the position of your mouse
+      snowStorm.snowCharacter = '*'; //★ change the flake to a specific character
+      snowStorm.snowStick = true; //if true, the snow will stick to the bottom of the screen
+      snowStorm.animationInterval = 40; //milliseconds per frame, the higher the less CPU load
+      snowStorm.flakesMaxActive = 30; //maximum number of active snow flakes, the lower the less CPU/GPU is needed to draw them
+      snowStorm.freezeOnBlur = true; //recommended: stops the snow effect when the user switches to another tab or window
+      snowStorm.usePositionFixed = true; //if the user scrolls, the snow is not affected by the window scroll. Disable to prevent extra CPU load
+    </script>
   </head>
   <body>
     <div class="wrapper">
