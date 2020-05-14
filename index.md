@@ -1,5 +1,4 @@
-<p><a href="/guidelines" id="guidelines"><img src='/assets/img/guidelines.jpg' alt='Discussion Guidelines' height='216' width='358' /></a>
-</p>
+<p><a href="/guidelines" id="guidelines"><img src='/assets/img/guidelines.jpg' alt='Discussion Guidelines' height='216' width='358' /></a></p>
 <div class="encase">
 	<button class="collapsible" id="links" data-parent="links" data-child="links-child">Links</button>
 		<div id="links-child" class="innertext" data-parent="links">
