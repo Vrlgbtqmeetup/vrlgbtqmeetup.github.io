@@ -3,7 +3,13 @@
 
 @import "{{ site.theme }}";
 
+@font-face {
+    font-family: Lexend;
+    src: url("/assets/fonts/lexend_deca/LexendDeca-Regular.ttf");
+}
+
 body {
+    font-family: Lexend;
     background-image: url("{{ '/assets/img/background.jpg' }}");
     background-color: #000;
 }
