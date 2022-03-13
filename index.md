@@ -1,5 +1,5 @@
 <p><a href="/guidelines" id="guidelines"><img src='/assets/img/guidelines.jpg' alt='Discussion Guidelines' height='216' width='358' /></a></p>
-<div class="encase">
+<!--<div class="encase">-->
 	<div id="time" class="encase center">
 		<iframe src="https://free.timeanddate.com/clock/i87uaupo/n234/fn8/tct/pct/ftb/tt0/tw1/tm3/td2/th1/ta1/tb4" frameborder="0" width="129" height="32" allowtransparency="true"></iframe>
 	</div>
@@ -29,4 +29,4 @@
 			<p>Help up us make the meetups better for the people who come every week by sending us your ideas on some awesome topics you want us to cover for everyone to enjoy.</p>
 			<p>Submit your ideas by sending us a message on <a href="https://discord.me/vrlgbtq" target="_blank" id="help-discord" data-parent="help">Discord</a>.</p>
 		</div>
-</div>
+<!--</div>-->
