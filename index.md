@@ -22,7 +22,7 @@
 	<button class="collapsible" id="about" data-parent="about" data-child="about-child">About</button>
 		<div id="about-child" class="innertext" data-parent="about">
 			<p>Come join our global LGBTQ+ weekly meetup that offers support, encouragement, and love from all corners of the world.</p>
-			<p>Join our Late meetup Wednesdays at 6pm Pacific. If you are sending your love from abroad, join us at our Early Meetup, 12 pm Pacific. We have created this safe haven where you can express yourself in a welcoming environment.</p>
+			<!--<p>Join our Late meetup Wednesdays at 6pm Pacific. If you are sending your love from abroad, join us at our Early Meetup, 12 pm Pacific. We have created this safe haven where you can express yourself in a welcoming environment.</p>-->
 			<p>We have created this space for those who have difficulty sharing their thoughts and experiences. Feel bold enough to share your stories and we will do our part to give you the encouragement you need to live the life you have always dreamed.</p>
 		</div>
 	<button class="collapsible" id="help" data-parent="help" data-child="help-child">Help Us</button>
