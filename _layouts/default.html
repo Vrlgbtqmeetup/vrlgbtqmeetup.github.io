@@ -1,6 +1,9 @@
 <!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
+    <meta property="og:title" content="LGBTQ+ and Friends Meetup Homepage">
+    <meta property="og:description" content="A homepage for the LGBTQ+ and Friends Meetup">
+    <meta property="og:image" content="https://cdn.glitch.global/7275ae75-7100-42ee-bd57-eb89734b9cea/LGBTQ_Event._169_copy.png?v=1697529809287">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
@@ -20,6 +23,17 @@
     <meta name="msapplication-TileColor" content="#603cba">
     <meta name="msapplication-config" content="/assets/favicon/browserconfig.xml?v=WGoOlvbOox">
     <meta name="theme-color" content="#ffffff">
+    <script src="https://aframe.io/releases/1.4.0/aframe.min.js"></script>
+    <script>
+      addEventListener("DOMContentLoaded", () => {
+        if(window.isBanter){
+          window.loadDoneCallback = () => {
+            lockPlayer();
+            openPage("banter://lgbtqmeetup.glitch.me/");
+          }
+        }
+      });
+    </script>
     <!----
     <script src="//cdnjs.cloudflare.com/ajax/libs/Snowstorm/20131208/snowstorm-min.js"></script>
     <script>
@@ -36,6 +50,8 @@
     <!---->
   </head>
   <body>
+    <div style="display: none;"><a-scene sq-hidedefaulttextures sq-maxoccupancy="number: 0" sq-guestsallowed="false" sq-friendpositionjoinallowed="false" embedded>
+    </a-scene></div>
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
         <img src='/assets/img/banner.jpg' alt='LGBTQ banner' height='315' width='560' style='width:95%;'/>

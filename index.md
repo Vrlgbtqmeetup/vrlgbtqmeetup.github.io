@@ -17,7 +17,7 @@
 			<p><a href="https://www.facebook.com/groups/195286514536810/about/" target="_blank" id="facebook" data-parent="links">Facebook Group</a></p>
 			<hr style="height:5spx; visibility:hidden;">
 			<h3 id="banter" data-parent="links">Banter Space</h3>
-			<p><a href="banter://lgbtqmeetup.glitch.me">Open in Banter</a></p>
+			<p><a href="https://lgbtqmeetup.glitch.me">Open in Banter</a></p>
 		</div>
 	<button class="collapsible" id="about" data-parent="about" data-child="about-child">About</button>
 		<div id="about-child" class="innertext" data-parent="about">
